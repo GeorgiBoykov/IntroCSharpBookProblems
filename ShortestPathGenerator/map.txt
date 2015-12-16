@@ -1,0 +1,46 @@
+A B 20
+A H 30
+B H 5
+B C 30
+B J 10
+B A 20
+C B 30
+C J 15
+C F 10
+C E 15
+C H 25
+D F 15
+D I 5
+D E 40
+E C 15
+E F 25
+E D 40
+E I 45
+E G 20
+E H 10
+F D 15
+F J 30
+F C 10
+F E 25
+G I 20
+G E 20
+G H 25
+H A 30
+H B 5
+H C 25
+H E 10
+H G 25
+I D 5
+I E 45
+I G 25
+j F 30
+J C 15
+J B 10
+K L 10
+L K 10
+L M 5
+M L 5
+
+A D
+H K
+A E
